@@ -1,5 +1,9 @@
 # Frontend Mentor - Base Apparel coming soon page
 
+Base apparel coming soon. Desafio de https://www.frontendmentor.io/
+Tentei completar o desafio com uma nova proposta, desenvolvendo imagens para
+uma marca de jóias, mantendo o logo original. 
+
 # Desafio finalizad -->
 
 # Desktop
